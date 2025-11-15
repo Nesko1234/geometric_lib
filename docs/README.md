@@ -202,6 +202,7 @@ perimeter(1, 2, 3) # the function will return 6
 'd078c8d9ee6155f3cb0e577d28d337b791de28e2' # Docs added
 'b3c66a5a80afb8dc978d01e71316693c8bffce5' # added triangle.py and rectangle.py
 '8e9fcb7675d7984481f86a7806ff3700326ef78a' # Descriptions have appeared in the functions
+'70be300b70e67497fec55e5b2b54b855a60fd993' # Added Tests and Changed funcs
 ```
 
 
